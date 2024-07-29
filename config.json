@@ -1,0 +1,4 @@
+{
+    "destination": "<google_drive_folder_id>",
+    "source": "path/to/your/directory"
+}
